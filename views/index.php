@@ -4,6 +4,8 @@
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="assets/css/prettify.css"></link>
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-wysihtml5.css"></link>
 </head>
 <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
